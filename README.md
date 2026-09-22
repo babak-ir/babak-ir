@@ -1,6 +1,6 @@
-<img src="banner.svg" alt="Babak Irannezhad, senior front-end developer" width="100%"/>
+<img src="banner.png" alt="Babak Irannezhad, senior front-end developer" width="100%"/>
 
-<h3 align="center">Senior front-end developer at <a href="https://www.linkedin.com/company/aec-ravanertebat-">AEC — RavanErtebat</a></h3>
+<p align="center">Senior front-end developer at AEC — RavanErtebat</p>
 
 <p align="center">
   Production interfaces for telecom, payments, field operations, and 3D tools.<br/>
